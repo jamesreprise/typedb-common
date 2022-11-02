@@ -16,6 +16,6 @@
 #
 
 deployment = {
-  'github.organisation': 'vaticle',
-  'github.repository': 'common'
+  'github.organisation': 'jamesreprise',
+  'github.repository': 'release-test'
 }
